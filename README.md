@@ -1,3 +1,3 @@
-# rajeshjavatech
-rajeshjavatech repository
+#       javatech
+javatech repository
 Updated new comment on javatech
